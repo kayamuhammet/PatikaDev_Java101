@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoxGame/BoxGame.iml" filepath="$PROJECT_DIR$/BoxGame/BoxGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentInformationSystems/StudentInformationSystems.iml" filepath="$PROJECT_DIR$/StudentInformationSystems/StudentInformationSystems.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
